@@ -1,3 +1,5 @@
+![Publish docker container](https://github.com/bogdangi/docker-mysql-spring-boot-example/workflows/Publish%20docker%20container/badge.svg)
+
 # Spring Boot on Docker connecting to MySQL Docker container
 
 1. Use MySQL Image published by Docker Hub (https://hub.docker.com/_/mysql/)
